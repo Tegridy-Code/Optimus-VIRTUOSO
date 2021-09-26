@@ -4,7 +4,7 @@
 
 ***
 
-## [SOTA](https://github.com/asigalov61/Optimus-VIRTUOSO/tree/main/Dataset-Model/Relative-Global-Attention) GPT3-based Multi-Instrumental MIDI Music AI Implementation
+## Multi-Instrumental MIDI Music AI Implementation
 
 ### Now featuring TMIDIX improved reproduction of the MuseNet multi-instrumental TXT encoding
 
@@ -19,7 +19,7 @@ For SOTA, non-auto-regressive, token-based implementation see Optimus VIRTUOSO: 
 
 [![Open In Colab][colab-badge]][colab-notebook]
 
-[colab-notebook]: <https://colab.research.google.com/github/asigalov61/Optimus-VIRTUOSO/blob/main/Optimus_VIRTUOSO.ipynb>
+[colab-notebook]: <https://colab.research.google.com/github//Tegridy-Code/Optimus-VIRTUOSO/blob/main/Optimus_VIRTUOSO.ipynb>
 [colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
 
 ***
@@ -32,47 +32,10 @@ And no, you do not really need Sparse Attention/Transformers here unless you wan
 
 [![Open In Colab][colab-badge1]][colab-notebook1]
 
-[colab-notebook1]: <https://colab.research.google.com/github/asigalov61/Optimus-VIRTUOSO/blob/main/Optimus_VIRTUOSO_Composer.ipynb>
+[colab-notebook1]: <https://colab.research.google.com/github/Tegridy-Code/Optimus-VIRTUOSO/blob/main/Optimus_VIRTUOSO_Composer.ipynb>
 [colab-badge1]: <https://colab.research.google.com/assets/colab-badge.svg>
 
 ***
-
-### BEST OF BOTH WORLDS: Optimus-VIRTUOSO: Relative Global Attention Edition
-
-GPT3 + RGA(RPR) = AWESOME
-
-If OpenAi's MuseNet and Google's Piano Transformer could have a baby, that would be it :) 
-
-[![Open In Colab][colab-badge2]][colab-notebook2]
-
-[colab-notebook2]: <https://colab.research.google.com/github/asigalov61/Optimus-VIRTUOSO/blob/main/Optimus_VIRTUOSO_Relative_Global_Attention_Edition.ipynb>
-[colab-badge2]: <https://colab.research.google.com/assets/colab-badge.svg>
-
-***
-
-### [NEW] Optimus-VIRTUOSO: Multi-Instrumental Relative Global Attention Edition
-
-### Now featuring a pre-trained Piano-Violin duo model and Endlesss Violin Carousel MIDI dataset!
-
-This is the same awesome RGA implementation as above but with full multi-instrumental support,
-continuation options, and other cool features. Check it out! :)
-
-[![Open In Colab][colab-badge3]][colab-notebook3]
-
-[colab-notebook3]: <https://colab.research.google.com/github/asigalov61/Optimus-VIRTUOSO/blob/main/Optimus_VIRTUOSO_Multi_Instrumental_RGA_Edition.ipynb>
-[colab-badge3]: <https://colab.research.google.com/assets/colab-badge.svg>
-
-***
-
-## Output Samples:
-
-### 🥰❤️🎁 Optimus-VIRTUOSO: RGA Edition SOTA Output Demo Sample 🎁❤️🥰
-
-NOTE: Do not forget to unmute the player below or you will not hear the music
-
-https://user-images.githubusercontent.com/56325539/130869548-ee1b90d9-0baa-4817-8d1b-ac314b34cd17.mp4
-
-[Click to download the whole thing as a MIDI (1.5 hour long performance)](https://github.com/asigalov61/Optimus-VIRTUOSO/raw/main/Samples/Relative-Global-Attention/Optimus-VIRTUOSO-RGA-Edition-Main-Sample.mid)
 
 ### SoundCloud:
 
